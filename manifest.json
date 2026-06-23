@@ -24,7 +24,31 @@
       "flipbook_url": "stories/the-girl-who-collected-clouds/flipbook.html",
       "story_json_url": "stories/the-girl-who-collected-clouds/story.json",
       "created_at": "2026-06-23T17:46:09.595552Z"
+    },
+    {
+      "id": "the-boy-who-painted-sounds",
+      "title": "The Boy Who Painted Sounds",
+      "subtitle": "A Symphony of Colors and Noise",
+      "author": "Elara Skye",
+      "genre": "Fantasy / Art / Self-Discovery",
+      "age_group": "6-8",
+      "tags": [
+        "creativity",
+        "art",
+        "music",
+        "self-expression",
+        "neurodiversity",
+        "senses",
+        "courage",
+        "friendship"
+      ],
+      "total_scenes": 6,
+      "synopsis_preview": "Leo is a boy who hears colors and sees music, but his unique gift makes him feel different and alone. When he discovers ...",
+      "cover_image": "stories/the-boy-who-painted-sounds/images/cover.webp",
+      "flipbook_url": "stories/the-boy-who-painted-sounds/flipbook.html",
+      "story_json_url": "stories/the-boy-who-painted-sounds/story.json",
+      "created_at": "2026-06-23T18:14:33.434910Z"
     }
   ],
-  "updated_at": "2026-06-23T17:59:03.573891Z"
+  "updated_at": "2026-06-23T18:14:59.566777Z"
 }
