@@ -1,0 +1,90 @@
+{
+  "id": "the-boy-who-painted-sounds",
+  "title": "The Boy Who Painted Sounds",
+  "subtitle": "A Symphony of Colors and Noise",
+  "author": "Elara Skye",
+  "genre": "Fantasy / Art / Self-Discovery",
+  "age_group": "6-8",
+  "tags": [
+    "creativity",
+    "art",
+    "music",
+    "self-expression",
+    "neurodiversity",
+    "senses",
+    "courage",
+    "friendship"
+  ],
+  "language": "en",
+  "synopsis": "Leo is a boy who hears colors and sees music, but his unique gift makes him feel different and alone. When he discovers a magical paintbrush that lets him paint the sounds he hears, he learns to share his extraordinary world with others.",
+  "moral": "Your differences are not weaknesses—they are your superpowers waiting to be shared.",
+  "dedication": "For every child who marches to the beat of their own drum...",
+  "total_scenes": 6,
+  "cover_image": "images/cover.webp",
+  "scenes": [
+    {
+      "scene_number": 1,
+      "title": "A Different Kind of Song",
+      "text": "Leo heard the world differently. When his mother played the piano, he saw shimmering blue waves. When the garbage truck rumbled past, he saw angry orange zigzags. At school, the noisy classroom became a chaotic storm of colors that made his head spin.",
+      "narration": "Leo heard the world differently than everyone else... When his mother played the piano... he saw shimmering blue waves. When the garbage truck rumbled past... he saw angry orange zigzags. And at school, the noisy classroom became a chaotic storm of colors that made his head spin...",
+      "mood": "overwhelmed",
+      "image": "images/scene_001.webp"
+    },
+    {
+      "scene_number": 2,
+      "title": "The Mysterious Gift",
+      "text": "Feeling alone, Leo wandered into the attic. There, among dusty boxes, he found a paintbrush unlike any he'd ever seen. It glowed softly and hummed a gentle melody. When he picked it up, he felt a jolt of energy run through his arm.",
+      "narration": "Feeling alone, Leo wandered into the dusty old attic. There, among forgotten boxes... he found it. A paintbrush unlike any he'd ever seen. It glowed softly and hummed a gentle, sweet melody. When he picked it up... he felt a jolt of energy run through his arm!",
+      "mood": "mysterious",
+      "image": "images/scene_002.webp"
+    },
+    {
+      "scene_number": 3,
+      "title": "Colors That Sing",
+      "text": "Leo touched the brush to his paper, and magic happened. The sound of his father's whistle became a wiggly yellow line. The chirping of birds turned into tiny green dots. For the first time, Leo could show everyone what he heard.",
+      "narration": "Leo touched the brush to his paper... and magic happened! The sound of his father's whistle became a wiggly yellow line. The chirping of birds turned into tiny green dots. For the first time... Leo could show everyone what he heard!",
+      "mood": "excited",
+      "image": "images/scene_003.webp"
+    },
+    {
+      "scene_number": 4,
+      "title": "A Symphony of Color",
+      "text": "Leo painted all day. The honk of a car became a bold red circle. The tapping of rain became delicate silver dashes. His entire room was covered in a beautiful symphony of sounds, each one a different color and shape.",
+      "narration": "Leo painted all day long! The honk of a car became a bold red circle. The tapping of rain became delicate silver dashes. His entire room was covered in a beautiful symphony of sounds... each one a different color and shape!",
+      "mood": "triumphant",
+      "image": "images/scene_004.webp"
+    },
+    {
+      "scene_number": 5,
+      "title": "Sharing His World",
+      "text": "Leo brought his paintings to school. His classmates gathered around, amazed. 'That's the sound of the school bell!' one shouted. 'And that's the crinkle of snack wrappers!' another laughed. Leo wasn't different anymore—he was extraordinary.",
+      "narration": "The next day, Leo brought his paintings to school... His classmates gathered around, amazed. 'That's the sound of the school bell!' one shouted. 'And that's the crinkle of snack wrappers!' another laughed. Leo wasn't different anymore... he was extraordinary!",
+      "mood": "joyful",
+      "image": "images/scene_005.webp"
+    },
+    {
+      "scene_number": 6,
+      "title": "A World Full of Music",
+      "text": "Leo continued to paint the world's sounds. He painted his mother's laughter in warm pinks, his teacher's kind voice in gentle greens, and the sound of the ocean in deep, peaceful blues. He showed everyone that the world was a beautiful, noisy masterpiece.",
+      "narration": "Leo continued to paint the sounds of the world... He painted his mother's laughter in warm pinks... his teacher's kind voice in gentle greens... and the sound of the ocean in deep, peaceful blues. He showed everyone that the world was a beautiful, noisy masterpiece.",
+      "mood": "peaceful",
+      "image": "images/scene_006.webp"
+    }
+  ],
+  "assets": {
+    "flipbook_html": "flipbook.html",
+    "kdp_interior": "kdp/interior.pdf",
+    "kdp_cover": "kdp/cover.pdf"
+  },
+  "keywords_kdp": [
+    "neurodiversity children's book",
+    "creative kids stories",
+    "art and imagination",
+    "synesthesia children's book",
+    "being different stories",
+    "music and art for kids",
+    "self-acceptance picture book"
+  ],
+  "created_at": "2026-06-23T18:14:33.434910Z",
+  "back_cover_text": "Leo sees a world of color that no one else can hear. When he discovers a magical paintbrush that lets him paint the sounds around him, he learns that his unique gift is not a weakness—it's his greatest strength. A celebration of neurodiversity and creative expression."
+}
