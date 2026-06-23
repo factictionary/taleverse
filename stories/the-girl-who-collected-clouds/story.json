@@ -1,0 +1,90 @@
+{
+  "id": "the-girl-who-collected-clouds",
+  "title": "The Girl Who Collected Clouds",
+  "subtitle": "A Journey of Light and Wonder",
+  "author": "Elara Skye",
+  "genre": "Fantasy / Nature",
+  "age_group": "6-8",
+  "tags": [
+    "imagination",
+    "adventure",
+    "nature",
+    "self-discovery",
+    "fantasy",
+    "clouds",
+    "courage",
+    "creativity"
+  ],
+  "language": "en",
+  "synopsis": "Luna is a quiet girl who loves to catch clouds in her jar, believing they hold the world's most beautiful secrets. When she discovers a cloud that has lost its light, she embarks on a journey to the sun to help it shine again, discovering her own inner light in the process.",
+  "moral": "Your uniqueness is your greatest strength, and your kindness can bring light to the world.",
+  "dedication": "For everyone who has ever looked up and wondered...",
+  "total_scenes": 6,
+  "cover_image": "images/cover.webp",
+  "scenes": [
+    {
+      "scene_number": 1,
+      "title": "A Special Jar",
+      "text": "Luna loved to watch the clouds. While other children played games, she would lie in the grass and imagine the shapes they made. One day, she had an idea. She found her biggest, clearest glass jar and decided to catch one.",
+      "narration": "Luna loved to watch the clouds... While other children played games, she would lie in the soft, green grass and imagine the wonderful shapes they made. But one day, she had a special idea. She found her biggest, clearest glass jar... and decided she was going to catch one.",
+      "mood": "dreamy",
+      "image": "images/scene_001.webp"
+    },
+    {
+      "scene_number": 2,
+      "title": "The Little Cloud",
+      "text": "The clouds were too high for Luna to reach. She was about to give up when she saw a tiny, sad-looking cloud. It was smaller than the others and looked like it was lost. It floated lower and lower, drifting right towards her.",
+      "narration": "But the clouds were so high... Luna was about to give up... when she saw it. A tiny, sad-looking cloud! It was smaller than all the others and looked like it was lost. It floated lower and lower and lower... drifting right towards her.",
+      "mood": "curious",
+      "image": "images/scene_002.webp"
+    },
+    {
+      "scene_number": 3,
+      "title": "A New Friend",
+      "text": "With a soft 'poof,' the little cloud floated right into Luna's jar. It wasn't white and shiny like the others. It was a soft, gentle grey, and it glowed with a faint, sad light. Luna spoke softly, 'You don't look happy. What's wrong?'",
+      "narration": "And with a soft 'poof,' the little cloud floated right into Luna's jar. But it wasn't white and shiny like the others. It was a soft, gentle grey, and it glowed with a faint, sad light. Luna looked at it kindly and whispered... 'You don't look happy. What's wrong?'",
+      "mood": "gentle",
+      "image": "images/scene_003.webp"
+    },
+    {
+      "scene_number": 4,
+      "title": "A Journey Begins",
+      "text": "The little cloud whispered, 'I've lost my light. I need the sun to shine on me again.' Luna nodded, 'Then we'll go to the sun together.' And so, with her jar held high, Luna began her long walk towards the golden horizon.",
+      "narration": "The little cloud whispered, 'I've lost my light... I need the sun to shine on me again.' Luna nodded, her eyes shining with determination. 'Then we'll go to the sun together.' And so, with her jar held high, Luna began her long, long walk towards the golden horizon.",
+      "mood": "hopeful",
+      "image": "images/scene_004.webp"
+    },
+    {
+      "scene_number": 5,
+      "title": "Reaching the Sun",
+      "text": "The sun was warm and bright, just like a big, friendly smile. Luna held up her jar. The golden light poured in, wrapping around the little cloud. The cloud began to glow, its sad grey color melting away into a brilliant, happy white and gold.",
+      "narration": "The sun was so warm and bright... just like a big, friendly smile. Luna held up her jar, letting the golden light pour in. It wrapped around the little cloud like a hug, and the cloud began to glow! Its sad grey color melted away into a brilliant, happy white and gold.",
+      "mood": "triumphant",
+      "image": "images/scene_005.webp"
+    },
+    {
+      "scene_number": 6,
+      "title": "A Sky Full of Light",
+      "text": "The little cloud was happy again! Luna opened the jar, and the cloud floated up, up into the sky. It danced with the others, its light shining brighter than ever. Luna smiled, knowing her kind heart was her greatest magic.",
+      "narration": "The little cloud was happy again! Luna opened the jar, and the cloud floated up, up, up into the sky. It danced with all the other clouds, its light shining brighter than ever. Luna smiled, knowing that her kind heart was her greatest magic of all.",
+      "mood": "joyful",
+      "image": "images/scene_006.webp"
+    }
+  ],
+  "assets": {
+    "flipbook_html": "flipbook.html",
+    "kdp_interior": "kdp/interior.pdf",
+    "kdp_cover": "kdp/cover.pdf"
+  },
+  "keywords_kdp": [
+    "children's fantasy adventure",
+    "imagination books for kids",
+    "kindness and empathy story",
+    "bedtime picture book",
+    "nature and wonder",
+    "clouds story",
+    "self-esteem children's book"
+  ],
+  "created_at": "2026-06-23T17:46:09.595552Z",
+  "back_cover_text": "What if you could catch a cloud in a jar? Join Luna on a gentle adventure across the fields to the sun, where she discovers that even the smallest act of kindness can bring light and joy to the world. A beautifully illustrated story about the power of imagination and the magic inside each of us."
+}
