@@ -1,0 +1,90 @@
+{
+  "id": "the-star-catchers-daughter",
+  "title": "The Star Catcher's Daughter",
+  "subtitle": "A Light in the Dark",
+  "author": "Elara Skye",
+  "genre": "Fantasy / Adventure / Family",
+  "age_group": "6-8",
+  "tags": [
+    "courage",
+    "family",
+    "night",
+    "stars",
+    "adventure",
+    "magic",
+    "hope",
+    "responsibility"
+  ],
+  "language": "en",
+  "synopsis": "Nova's father is the Star Catcher, who collects fallen stars and returns them to the sky. When he doesn't return from his nightly duties, Nova must brave the dark woods to find him and finish his important work, discovering her own inner light.",
+  "moral": "Courage isn't the absence of fear—it's doing what's right even when you're afraid.",
+  "dedication": "For the brave little lights who shine brightest in the dark...",
+  "total_scenes": 6,
+  "cover_image": "images/cover.webp",
+  "scenes": [
+    {
+      "scene_number": 1,
+      "title": "The Nightly Vigil",
+      "text": "Every night, Nova watched from her window as her father, the Star Catcher, left for work. He carried his silver net to catch falling stars and return them to the sky. 'Wait for me,' he would say, and Nova always did.",
+      "narration": "Every single night, Nova watched from her window... as her father, the Star Catcher, left for his important work. He carried his silver net to catch falling stars and return them to their home in the sky. 'Wait for me,' he would say... and Nova always did.",
+      "mood": "peaceful",
+      "image": "images/scene_001.webp"
+    },
+    {
+      "scene_number": 2,
+      "title": "The Lonely Night",
+      "text": "The night grew old, but her father didn't return. The sky began to dim as one by one, stars fell and stayed fallen. Nova knew what she had to do. With a deep breath, she grabbed her lantern and stepped into the dark forest.",
+      "narration": "The night grew old... but her father didn't return. The sky began to dim as one by one, stars fell... and stayed fallen. Nova's heart pounded... but she knew what she had to do. With a deep breath, she grabbed her lantern and stepped into the dark, dark forest.",
+      "mood": "tense",
+      "image": "images/scene_002.webp"
+    },
+    {
+      "scene_number": 3,
+      "title": "A Fallen Star",
+      "text": "Nova walked deep into the woods until she found a tiny, flickering light on the forest floor. It was a fallen star, weak and alone. She cradled it gently in her hands, feeling its faint warmth. 'I'll get you home,' she whispered.",
+      "narration": "Nova walked deep into the woods... until she found a tiny, flickering light on the forest floor. It was a fallen star... weak and alone. She cradled it gently in her hands, feeling its faint warmth. 'I'll get you home,' she whispered.",
+      "mood": "compassionate",
+      "image": "images/scene_003.webp"
+    },
+    {
+      "scene_number": 4,
+      "title": "The Star Catcher's Secret",
+      "text": "Following the trail of fallen stars, Nova found her father trapped under a fallen branch. 'Nova!' he gasped. 'You must finish my work. The stars need to return to the sky before dawn!' Nova nodded, her heart racing.",
+      "narration": "Following the trail of fallen stars... Nova found him! Her father was trapped under a heavy fallen branch. 'Nova!' he gasped. 'You must finish my work! The stars need to return to the sky before dawn!' Nova nodded, her heart racing...",
+      "mood": "urgent",
+      "image": "images/scene_004.webp"
+    },
+    {
+      "scene_number": 5,
+      "title": "Climbing the Sky",
+      "text": "Nova climbed the highest hill, the star cradled against her heart. She held it up to the sky, closed her eyes, and wished with all her might. The star pulsed once, twice, and then soared upward, taking its place among the others.",
+      "narration": "Nova climbed the highest hill, the star held close against her heart. She held it up to the dark sky, closed her eyes, and wished with all her might. The star pulsed once... twice... and then soared upward, taking its place among the others!",
+      "mood": "hopeful",
+      "image": "images/scene_005.webp"
+    },
+    {
+      "scene_number": 6,
+      "title": "Return of the Light",
+      "text": "The sky glowed brighter as more stars returned home. Nova helped her father back, and together they watched the dawn break. 'You were so brave,' her father said. Nova smiled, knowing she had found the courage inside herself.",
+      "narration": "The sky glowed brighter and brighter as more stars returned home. Nova helped her father back, and together they watched the dawn break over the hills. 'You were so brave,' her father said. Nova smiled, knowing she had found the courage inside herself all along.",
+      "mood": "triumphant",
+      "image": "images/scene_006.webp"
+    }
+  ],
+  "assets": {
+    "flipbook_html": "flipbook.html",
+    "kdp_interior": "kdp/interior.pdf",
+    "kdp_cover": "kdp/cover.pdf"
+  },
+  "keywords_kdp": [
+    "courage children's story",
+    "nighttime adventure",
+    "stars and sky book",
+    "family bonding story",
+    "brave girl protagonist",
+    "magical forest adventure",
+    "responsibility and heroism"
+  ],
+  "created_at": "2026-06-23T18:46:28.067246Z",
+  "back_cover_text": "When Nova's father, the Star Catcher, doesn't return home, she must brave the dark forest to find him. Along the way, she discovers fallen stars that need her help, and a courage she never knew she had. A story about family, bravery, and finding your own light."
+}
