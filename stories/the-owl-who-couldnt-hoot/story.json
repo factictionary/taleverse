@@ -1,0 +1,149 @@
+{
+  "id": "the-owl-who-couldnt-hoot",
+  "title": "The Owl Who Couldn't Hoot",
+  "subtitle": "A tale of finding your voice",
+  "author": "StoryVerse",
+  "genre": "Fantasy",
+  "age_group": "6-8",
+  "tags": [
+    "owls",
+    "courage",
+    "friendship",
+    "self-discovery",
+    "voice",
+    "belonging"
+  ],
+  "language": "en",
+  "synopsis": "Olive is a young purple owl with beautiful silver feathers who is terrified of her own hoot. When a terrible darkness spreads through Whisperwood Forest, only Olive can save her friends — if she can find the courage to let her voice be heard.",
+  "moral": "Your voice matters, even when it feels small — the world needs to hear what only you can say.",
+  "dedication": "For every child who ever felt too shy to speak up.",
+  "total_scenes": 12,
+  "cover_image": "images/cover.webp",
+  "scenes": [
+    {
+      "scene_number": 1,
+      "chapter": "The Problem",
+      "title": "Every Owl But One",
+      "text": "In the enchanted Whisperwood Forest, every young owl learned to hoot by their first autumn. It was as natural as breathing, as easy as blinking. Every owl, that is — except Olive.",
+      "narration": "In the enchanted Whisperwood Forest... every young owl learned to hoot by their first autumn. It was as natural as breathing... as easy as blinking. Every owl, that is — except... Olive.",
+      "mood": "magical, gentle, introduces contrast",
+      "image": "images/scene_001.webp"
+    },
+    {
+      "scene_number": 2,
+      "chapter": "The Problem",
+      "title": "The Squeak and the Squirrel",
+      "text": "Whenever Olive tried to hoot, something went terribly wrong. She would puff up her chest, open her beak wide — and then squeak. A tiny, pathetic 'eep' would come out instead. Then she would blush bright purple, ruffle all her feathers, and dive back into her nest hole. Even the squirrels would giggle.",
+      "narration": "Whenever Olive tried to hoot... something went terribly wrong. She would puff up her chest... open her beak wide — and then... SQUEAK! A tiny, pathetic 'eep' would come out instead. Then she would blush bright purple — ruffflle ALL her feathers — and dive back into her nest hole. Even the squirrels would giggle.",
+      "mood": "comic, slightly sad, relatable",
+      "image": "images/scene_002.webp"
+    },
+    {
+      "scene_number": 3,
+      "chapter": "The Problem",
+      "title": "What If I Sound Wrong?",
+      "text": "'What if I sound strange?' Olive worried, peeking out from her nest hole. 'What if my hoot frightens someone?' She imagined Maple the fox cub jumping at her sound. She imagined Grandfather Oak shaking his great head in disappointment. The thought made her tummy flutter like a thousand butterfly wings.",
+      "narration": "What if I sound strange? Olive worried... peeking out from her nest hole with just her eyes and ear tufts visible. What if my hoot frightens someone? She imagined Maple the fox cub jumping at her sound. She imagined Grandfather Oak shaking his great head in disappointment! The thought made her tummy flutter like a thousand butterfly wings.",
+      "mood": "anxious, worried, empathetic",
+      "image": "images/scene_003.webp"
+    },
+    {
+      "scene_number": 4,
+      "chapter": "A Friend's Kindness",
+      "title": "Maple's Acorn Cookies",
+      "text": "Olive's very best friend in all of Whisperwood was Maple — a cheerful, fiery-orange fox cub from the meadow's edge. Every single night, Maple came to visit her. Tonight he carried a small bundle of acorn cookies wrapped in a maple leaf, and his smile was brighter than all the fireflies combined.",
+      "narration": "Olive's very best friend in all of Whisperwood was Maple — a cheerful, fiery-orange fox cub from the meadow's edge. Every single night... Maple came to visit her. Tonight he carried a small bundle of acorn cookies wrapped in a maple leaf... and his smile was brighter than all the fireflies combined.",
+      "mood": "warm, tender, safe",
+      "image": "images/scene_004.webp"
+    },
+    {
+      "scene_number": 5,
+      "chapter": "A Friend's Kindness",
+      "title": "Your Hoot Will Find Its Way",
+      "text": "'Your hoot will find its way when the time is right,' Maple said, setting the cookie bundle next to Olive's talons. 'I promise.' Olive took a tiny bite. It was crunchy and sweet and tasted like friendship. She smiled — a real, wobbly, grateful smile. But deep in her chest, the worry stayed.",
+      "narration": "Your hoot will find its way when the time is right, Maple said... setting the cookie bundle next to Olive's talons. I promise. Olive took a tiny bite. It was crunchy... and sweet... and tasted like friendship. She smiled — a real, wobbly, grateful smile. But deep in her chest... the worry stayed.",
+      "mood": "bittersweet, hopeful, quietly sad",
+      "image": "images/scene_005.webp"
+    },
+    {
+      "scene_number": 6,
+      "chapter": "The Great Shadow",
+      "title": "The Darkness Spreads",
+      "text": "But then one moonless night, everything changed. Olive woke to a sound she had never heard before — silence. No rustling leaves. No singing crickets. A great and terrible shadow had crept through Whisperwood while everyone slept, smothering every sound, every light, every spark of glow.",
+      "narration": "But then... one moonless night... everything changed. Olive woke to a sound she had never heard before — silence. No rustling leaves. No singing crickets. A great and terrible shadow had crept through Whisperwood while everyone slept... smothering every sound, every light, every spark of glow.",
+      "mood": "ominous, alarming, dramatic shift",
+      "image": "images/scene_006.webp"
+    },
+    {
+      "scene_number": 7,
+      "chapter": "The Great Shadow",
+      "title": "Grandfather Oak Calls for Help",
+      "text": "Grandfather Oak perched on the Great Hollow Oak at the heart of Whisperwood, his ancient staff raised high. 'The shadow spreads!' he called in his deep, echoing voice. 'The creatures grow quiet! We need sound — every owl must call!' The forest creatures huddled together, their fear rising like a cold mist.",
+      "narration": "Grandfather Oak perched on the Great Hollow Oak at the heart of Whisperwood... his ancient staff raised high. The shadow spreads! he called in his deep, echoing voice. The creatures grow quiet! We need sound — every owl must call! The forest creatures huddled together... their fear rising like a cold mist.",
+      "mood": "urgent, rallying, communal fear",
+      "image": "images/scene_007.webp"
+    },
+    {
+      "scene_number": 8,
+      "chapter": "The Great Shadow",
+      "title": "The Owls Cannot Be Heard",
+      "text": "One by one, the forest owls stepped forward and tried. They called and called with all their might. But the shadow was too thick, too quiet, too strong. Every brave hoot vanished the moment it left their beaks, swallowed by the terrible silence. The forest grew darker and darker.",
+      "narration": "One by one... the forest owls stepped forward and tried. They called... and called... with all their might. But the shadow was too thick... too quiet... too strong. Every brave hoot vanished the moment it left their beaks... swallowed by the terrible silence. The forest grew darker... and darker.",
+      "mood": "tense, failing hope, desperation",
+      "image": "images/scene_008.webp"
+    },
+    {
+      "scene_number": 9,
+      "chapter": "The Moment of Choice",
+      "title": "Only Olive Is Left",
+      "text": "Maple pushed through the crowd until he found Olive. He stood on his hind legs and gently touched her wing with his nose. 'Olive,' he whispered. 'You're the only one left.' Olive stared at him. Then she looked at the darkened forest. At the frightened creatures. At the baby rabbits shivering in the silence.",
+      "narration": "Maple pushed through the crowd until he found Olive. He stood on his hind legs... and gently touched her wing with his nose. Olive, he whispered. You're the only one left. Olive stared at him. Then she looked at the darkened forest. At the frightened creatures. At the baby rabbits shivering in the silence.",
+      "mood": "pivotal, emotional, quiet before the storm",
+      "image": "images/scene_009.webp"
+    },
+    {
+      "scene_number": 10,
+      "chapter": "The Sound Within",
+      "title": "Olive Closes Her Eyes",
+      "text": "Olive closed her eyes tightly. She didn't think about her hoot. She thought about Maple's warm acorn cookies on a cold night. She thought about baby rabbits laughing in the sunshine. She thought about Whisperwood — alive, singing, full of sound. Something deep inside her, something bright and true, began to resonate.",
+      "narration": "Olive closed her eyes... tightly. She didn't think about her hoot. She thought about Maple's warm acorn cookies on a cold night. She thought about baby rabbits laughing in the sunshine. She thought about Whisperwood — alive... singing... full of sound. Something deep inside her — something bright and true — began... to resonate.",
+      "mood": "still, magical, inward, building",
+      "image": "images/scene_010.webp"
+    },
+    {
+      "scene_number": 11,
+      "chapter": "The Sound Within",
+      "title": "The Most Beautiful Hoot",
+      "text": "She opened her beak. And for the very first time in her life, Olive hooted. But not just any hoot — it was the most beautiful, shimmering, silver-bright hoot that anyone in Whisperwood had ever heard. It rang through the shadow like moonlight. It filled the silent air. It lit the dark sky with starlight. The shadow shuddered — and began to scatter.",
+      "narration": "She opened her beak. And for the very first time in her life — Olive HOOTED! But not just any hoot — it was the most BEAUTIFUL — shimmering — silver-bright hoot — that anyone in Whisperwood had ever heard! It rang through the shadow like moonlight. It filled the silent air. It lit the dark sky with starlight. The shadow shuddered — and began to scatter!",
+      "mood": "triumphant, explosive joy, epic",
+      "image": "images/scene_011.webp"
+    },
+    {
+      "scene_number": 12,
+      "chapter": "The Celebration",
+      "title": "Whisperwood Sings Again",
+      "text": "The shadow fled. Songs rose up through Whisperwood — crickets chirping, leaves rustling, owls calling to each other across the moonlit trees. Flowers bloomed through the fading mist — silver and purple and pale gold. Maple hugged Olive so tightly her silver wing tips twinkled. Grandfather Oak placed a tiny silver bell necklace around Olive's neck. 'The bravest voice,' the old owl said with a warm smile, 'is the one that speaks from the heart.'",
+      "narration": "The shadow fled. Songs rose up through Whisperwood — crickets chirping, leaves rustling, owls calling to each other across the moonlit trees! Flowers bloomed through the fading mist — silver and purple and pale gold! Maple hugged Olive so tightly her silver wing tips twinkled. Grandfather Oak placed a tiny silver bell necklace around Olive's neck. The bravest voice, the old owl said with a warm smile... is the one that speaks from the heart.",
+      "mood": "joyful, warm, resolved, celebratory",
+      "image": "images/scene_012.webp"
+    }
+  ],
+  "assets": {
+    "flipbook": "flipbook.html",
+    "kdp_interior": "kdp/interior.pdf",
+    "kdp_cover": "kdp/cover.pdf",
+    "epub": "kdp/the-owl-who-couldnt-hoot.epub"
+  },
+  "back_cover_text": "Olive the owl had a big secret — she was afraid of her own voice. But when her forest needed her most, she discovered that the most powerful sound in the world is the one that comes from your heart.",
+  "keywords_kdp": [
+    "children owl picture book",
+    "courage story for kids",
+    "finding your voice children",
+    "owl bedtime story",
+    "fantasy picture book age 6",
+    "shy to speak up kids",
+    "kids book about friendship"
+  ],
+  "created_at": "2026-06-29T14:57:44.720187Z"
+}
