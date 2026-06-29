@@ -21,7 +21,7 @@
       "cover_image": "stories/the-owl-who-couldnt-hoot/images/cover.webp",
       "story_json_url": "stories/the-owl-who-couldnt-hoot/story.json",
       "flipbook_url": "stories/the-owl-who-couldnt-hoot/flipbook.html",
-      "created_at": "2026-06-29T15:10:43.630291Z"
+      "created_at": "2026-06-29T17:10:35.631463Z"
     },
     {
       "id": "the-dragon-who-feared-fire",
@@ -118,5 +118,5 @@
       "created_at": "2026-06-23T18:46:28.067246Z"
     }
   ],
-  "updated_at": "2026-06-29T15:10:44.026546Z"
+  "updated_at": "2026-06-29T17:10:36.031334Z"
 }
