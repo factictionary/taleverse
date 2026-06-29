@@ -2,6 +2,28 @@
   "version": 1,
   "stories": [
     {
+      "id": "the-owl-who-couldnt-hoot",
+      "title": "The Owl Who Couldn't Hoot",
+      "subtitle": "A tale of finding your voice",
+      "author": "StoryVerse",
+      "genre": "Fantasy",
+      "age_group": "6-8",
+      "tags": [
+        "owls",
+        "courage",
+        "friendship",
+        "self-discovery",
+        "voice",
+        "belonging"
+      ],
+      "total_scenes": 12,
+      "synopsis_preview": "Olive is a young purple owl with beautiful silver feathers who is terrified of her own hoot. When a terrible darkness sp...",
+      "cover_image": "stories/the-owl-who-couldnt-hoot/images/cover.webp",
+      "story_json_url": "stories/the-owl-who-couldnt-hoot/story.json",
+      "flipbook_url": "stories/the-owl-who-couldnt-hoot/flipbook.html",
+      "created_at": "2026-06-29T14:58:33.244066Z"
+    },
+    {
       "id": "the-dragon-who-feared-fire",
       "title": "The Dragon Who Feared Fire",
       "subtitle": "A tale of courage and self-discovery",
@@ -96,5 +118,5 @@
       "created_at": "2026-06-23T18:46:28.067246Z"
     }
   ],
-  "updated_at": "2026-06-29T12:37:41.693106Z"
+  "updated_at": "2026-06-29T14:58:33.685332Z"
 }
