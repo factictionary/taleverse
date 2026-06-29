@@ -1,0 +1,149 @@
+{
+  "id": "the-dragon-who-feared-fire",
+  "title": "The Dragon Who Feared Fire",
+  "subtitle": "A tale of courage and self-discovery",
+  "author": "StoryVerse",
+  "genre": "Fantasy",
+  "age_group": "6-8",
+  "tags": [
+    "dragons",
+    "courage",
+    "friendship",
+    "self-discovery",
+    "fear",
+    "bravery"
+  ],
+  "language": "en",
+  "synopsis": "Ember is a young blue dragon terrified of his own fire. When a great ice storm threatens his village, every other dragon fails. Only Ember can save everyone — if he finds the courage buried deep within his heart.",
+  "moral": "True courage means doing what is right even when you are afraid.",
+  "dedication": "For every child who ever felt afraid to shine.",
+  "total_scenes": 12,
+  "cover_image": "images/cover.webp",
+  "scenes": [
+    {
+      "scene_number": 1,
+      "chapter": "The Problem",
+      "title": "Every Dragon But One",
+      "text": "In the cozy village of Embervale, every dragon learned to breathe fire by their fifth birthday. It was as natural as blinking, as easy as yawning. Every dragon, that is — except Ember.",
+      "narration": "In the cozy village of Embervale... every dragon learned to breathe fire by their fifth birthday. It was as natural as blinking... as easy as yawning. Every dragon, that is — except... Ember.",
+      "mood": "warm, gentle, introduces contrast",
+      "image": "images/scene_001.webp"
+    },
+    {
+      "scene_number": 2,
+      "chapter": "The Problem",
+      "title": "The Hiccup and the Boulder",
+      "text": "Whenever Ember tried to breathe fire, something went terribly wrong. He would scrunch up his face, take a big breath — and then hiccup. A tiny puff of smoke would dribble out. Then he would sneeze, turn pink with embarrassment, and dive behind the nearest boulder.",
+      "narration": "Whenever Ember tried to breathe fire... something went terribly wrong. He would scrunch up his face... take a big breath — and then... HICCUP! A tiny puff of smoke would dribble out. Then he would sneeze — ACHOO! — turn pink with embarrassment... and dive behind the nearest boulder.",
+      "mood": "comic, slightly sad, relatable",
+      "image": "images/scene_002.webp"
+    },
+    {
+      "scene_number": 3,
+      "chapter": "The Problem",
+      "title": "What If I Hurt Someone?",
+      "text": "'What if I burn something?' Ember worried, peeking from behind the boulder. 'What if I burn someone I love?' He imagined Luna's pretty meadow on fire. He imagined Elder Drake's long white beard going up in flames. The thought made his tummy twist into a great big knot.",
+      "narration": "What if I burn something? Ember worried... peeking out from behind the boulder with just his eyes and horns showing. What if I burn someone I love? He imagined Luna's pretty meadow on fire. He imagined Elder Drake's long white beard going up in flames! The thought made his tummy twist into a great big knot.",
+      "mood": "anxious, worried, empathetic",
+      "image": "images/scene_003.webp"
+    },
+    {
+      "scene_number": 4,
+      "chapter": "A Friend's Kindness",
+      "title": "Luna's Blueberry Muffins",
+      "text": "Ember's very best friend in all of Embervale was Luna — a cheerful, white-furred rabbit girl from across the meadow. Every single day, Luna came to find him. Today she carried a basket of warm blueberry muffins fresh from the oven, and her smile was the warmest thing in the whole village.",
+      "narration": "Ember's very best friend in all of Embervale was Luna — a cheerful white-furred rabbit girl from across the meadow. Every single day... Luna came to find him. Today she carried a basket of warm blueberry muffins fresh from the oven... and her smile was the warmest thing in the whole village.",
+      "mood": "warm, tender, safe",
+      "image": "images/scene_004.webp"
+    },
+    {
+      "scene_number": 5,
+      "chapter": "A Friend's Kindness",
+      "title": "You Will Find Your Fire",
+      "text": "'You'll find your fire when you need it most,' Luna said, handing Ember the biggest muffin in the basket. 'I just know it.' Ember took a bite. It was warm and sweet and tasted like hope. He smiled — a real, wobbly, grateful smile. But deep in his tummy, the worry stayed.",
+      "narration": "You will find your fire when you need it most, Luna said... handing Ember the biggest muffin in the basket. I just know it. Ember took a bite. It was warm... and sweet... and tasted like hope. He smiled — a real, wobbly, grateful smile. But deep in his tummy... the worry stayed.",
+      "mood": "bittersweet, hopeful, quietly sad",
+      "image": "images/scene_005.webp"
+    },
+    {
+      "scene_number": 6,
+      "chapter": "The Great Cold",
+      "title": "The Storm Arrives",
+      "text": "But then one winter morning, everything changed. Ember woke to a sound he had never heard before — silence. No crackling fires. No warm chimney smoke. A vast and terrible ice storm had crept down from the Frozen Mountains overnight, smothering every flame in Embervale.",
+      "narration": "But then... one winter morning... everything changed. Ember woke to a sound he had never heard before — silence. No crackling fires. No warm chimney smoke. A vast and terrible ice storm had crept down from the Frozen Mountains overnight... smothering every single flame in Embervale.",
+      "mood": "ominous, alarming, dramatic shift",
+      "image": "images/scene_006.webp"
+    },
+    {
+      "scene_number": 7,
+      "chapter": "The Great Cold",
+      "title": "Elder Drake Calls for Help",
+      "text": "Elder Drake stood on the great stone platform in the centre of Embervale, his staff raised high. 'The crops are freezing!' he called in his deep rumbling voice. 'The little ones are cold! We need fire — every dragon must try!' The crowd huddled together, breath rising in clouds of white mist.",
+      "narration": "Elder Drake stood on the great stone platform in the centre of Embervale... his staff raised high. The crops are freezing! he called in his deep rumbling voice. The little ones are cold! We need fire — every dragon must try! The crowd huddled together... breath rising in clouds of white mist.",
+      "mood": "urgent, rallying, communal fear",
+      "image": "images/scene_007.webp"
+    },
+    {
+      "scene_number": 8,
+      "chapter": "The Great Cold",
+      "title": "The Dragons Cannot Do It",
+      "text": "One by one, the village dragons stepped forward and tried. They huffed and puffed and strained with all their might. But the ice storm was too fierce, too cold, too strong. Every brave flame flickered and died the moment it touched the freezing air. The village grew colder and colder.",
+      "narration": "One by one... the village dragons stepped forward and tried. They huffed... and puffed... and strained with all their might. But the ice storm was too fierce... too cold... too strong. Every brave flame flickered — and died — the moment it touched the freezing air. The village grew colder... and colder.",
+      "mood": "tense, failing hope, desperation",
+      "image": "images/scene_008.webp"
+    },
+    {
+      "scene_number": 9,
+      "chapter": "The Moment of Choice",
+      "title": "Only Ember Is Left",
+      "text": "Luna pushed through the crowd until she found Ember. She reached up and gently tugged the end of his red scarf. 'Ember,' she whispered. 'You're the only one left.' Ember stared at her. Then he looked at the frozen village. At the shivering families. At the baby dragons crying cold tears.",
+      "narration": "Luna pushed through the crowd until she found Ember. She reached up... and gently tugged the end of his red scarf. Ember, she whispered. You're the only one left. Ember stared at her. Then he looked at the frozen village. At the shivering families. At the baby dragons... crying cold tears.",
+      "mood": "pivotal, emotional, quiet before the storm",
+      "image": "images/scene_009.webp"
+    },
+    {
+      "scene_number": 10,
+      "chapter": "The Flame Within",
+      "title": "Ember Closes His Eyes",
+      "text": "Ember closed his eyes tightly. He didn't think about the fire. He thought about Luna's warm muffins on a cold day. He thought about the laughter of baby dragons playing in summer. He thought about Embervale — warm, laughing, alive. Something deep inside him, something bright and golden, began to glow.",
+      "narration": "Ember closed his eyes... tightly. He didn't think about the fire. He thought about Luna's warm muffins on a cold day. He thought about the laughter of baby dragons playing in summer. He thought about Embervale — warm... laughing... alive. Something deep inside him — something bright and golden — began... to glow.",
+      "mood": "still, magical, inward, building",
+      "image": "images/scene_010.webp"
+    },
+    {
+      "scene_number": 11,
+      "chapter": "The Flame Within",
+      "title": "The Most Magnificent Fire",
+      "text": "He opened his mouth. And for the very first time in his life, Ember breathed fire. But not just any fire — it was the most magnificent, golden, roaring fire that anyone in Embervale had ever seen. It shot through the storm like a sunrise. It warmed the freezing air. It lit the dark sky. The ice storm shuddered — and began to retreat.",
+      "narration": "He opened his mouth. And for the very first time in his life — Ember breathed fire. But not just any fire — it was the most MAGNIFICENT — golden — roaring fire — that anyone in Embervale had ever seen! It shot through the storm like a sunrise. It warmed the freezing air. It lit the dark sky. The ice storm shuddered — and began to retreat!",
+      "mood": "triumphant, explosive joy, epic",
+      "image": "images/scene_011.webp"
+    },
+    {
+      "scene_number": 12,
+      "chapter": "The Celebration",
+      "title": "Embervale Blooms Again",
+      "text": "The storm retreated. Fires roared back to life across Embervale. Flowers pushed up through the melting snow — pink and yellow and orange. Luna hugged Ember so tightly his silver wings sparkled. Elder Drake placed a golden ember-stone necklace around Ember's neck. 'The bravest fire,' the old dragon said with a warm smile, 'is the one that burns for others.'",
+      "narration": "The storm retreated. Fires roared back to life across Embervale. Flowers pushed up through the melting snow — pink and yellow and orange! Luna hugged Ember so tightly his silver wings sparkled. Elder Drake placed a golden ember-stone necklace around Ember's neck. The bravest fire, the old dragon said with a warm smile... is the one that burns for others.",
+      "mood": "joyful, warm, resolved, celebratory",
+      "image": "images/scene_012.webp"
+    }
+  ],
+  "assets": {
+    "flipbook": "flipbook.html",
+    "kdp_interior": "kdp/interior.pdf",
+    "kdp_cover": "kdp/cover.pdf",
+    "epub": "kdp/the-dragon-who-feared-fire.epub"
+  },
+  "back_cover_text": "Ember the dragon had a big problem — he was afraid of his own fire. But when his village needed him most, he discovered that the bravest flames come straight from the heart.",
+  "keywords_kdp": [
+    "children dragon picture book",
+    "courage story for kids",
+    "facing your fears children",
+    "dragon bedtime story",
+    "fantasy picture book age 6",
+    "brave dragon story",
+    "kids book about friendship"
+  ],
+  "created_at": "2026-06-29T12:36:57.363454Z"
+}
